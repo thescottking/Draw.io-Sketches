@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T11:02:52.957Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lokmTWo3Qo4M4LyK9R7a" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T13:01:58.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_EChWdTpJpU86UnwNJ56" version="24.2.0" type="github">
   <diagram name="Page-1" id="YMkLOt1jcK2h4WGj4CcL">
     <mxGraphModel dx="1512" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" background="#ffffff" math="0" shadow="0">
       <root>
@@ -105,9 +105,6 @@
         </mxCell>
         <mxCell id="_YyVbER2g6xaAAMBrMRv-5" value="Escalate" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#4FD7ED;fillStyle=solid;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="379" y="478" width="108" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="TKwxE6lpBttA-kni4Ef6-1" value="Krista Automatically&lt;br&gt;&amp;nbsp;Responds to Emails and Chats" style="text;strokeColor=none;fillColor=none;html=1;fontSize=27;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="338.25" y="44" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TKwxE6lpBttA-kni4Ef6-2" value="Confirms Resolution" style="curved=1;startArrow=none;endArrow=block;entryX=0.625;entryY=-0.088;rounded=1;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.159;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" source="_YyVbER2g6xaAAMBrMRv-7" target="_YyVbER2g6xaAAMBrMRv-8" edge="1">
           <mxGeometry x="0.6647" y="-51" relative="1" as="geometry">
