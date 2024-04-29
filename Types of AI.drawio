@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T21:56:29.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sSaVoEGhFuLRlrOEomvG" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T21:57:44.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VFq9mE1ydjjV3GyuIJNW" version="24.3.1" type="github">
   <diagram name="Page-1" id="9s_VgViNMeHV7FSrBPHC">
     <mxGraphModel dx="-1010" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -406,6 +406,9 @@
               <mxPoint x="3180" y="2482" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQliHU4YAgJp6lG1vNW5-167" value="Types of AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="2897" y="132" width="506" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
