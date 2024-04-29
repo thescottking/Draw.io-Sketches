@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T21:55:34.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lOplDRxfv6G-c6Z5MMd-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T21:56:29.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sSaVoEGhFuLRlrOEomvG" version="24.3.1" type="github">
   <diagram name="Page-1" id="9s_VgViNMeHV7FSrBPHC">
     <mxGraphModel dx="-1010" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -68,10 +68,10 @@
           <mxGeometry x="3378" y="1004" width="108" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OQliHU4YAgJp6lG1vNW5-105" value="Natural Language Understanding" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="3127" y="1129" width="248" height="34" as="geometry" />
+          <mxGeometry x="3159" y="1129" width="216" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OQliHU4YAgJp6lG1vNW5-106" value="Natural Language Generation" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="3138" y="1296" width="225" height="34" as="geometry" />
+          <mxGeometry x="3177" y="1296" width="187" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OQliHU4YAgJp6lG1vNW5-107" value="Speech Processing" style="whiteSpace=wrap;strokeWidth=2;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="3178" y="1463" width="144" height="34" as="geometry" />
@@ -266,10 +266,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQliHU4YAgJp6lG1vNW5-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5605344052904466;exitY=0.007352941176470588;entryX=-0.0013230846774193547;entryY=0.5;rounded=0;hachureGap=4;fontFamily=Helvetica;" edge="1" parent="1" source="OQliHU4YAgJp6lG1vNW5-86" target="OQliHU4YAgJp6lG1vNW5-105">
+        <mxCell id="OQliHU4YAgJp6lG1vNW5-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5605344052904466;exitY=0.007352941176470588;entryX=0;entryY=0.25;rounded=0;hachureGap=4;fontFamily=Helvetica;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQliHU4YAgJp6lG1vNW5-86" target="OQliHU4YAgJp6lG1vNW5-105">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3180" y="1146" />
+              <mxPoint x="3146" y="1146" />
             </Array>
           </mxGeometry>
         </mxCell>
